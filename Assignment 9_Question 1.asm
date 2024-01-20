@@ -1,3 +1,11 @@
+; Suppose the class records are stored as follows:
+; CLASS
+; DB ‘MARY ALLEN’, 67, 45, 98, 33
+; DB ‘SCOTT BAYLIS’, 70, 56, 87, 44
+; DB ‘GEORGE FRANK', 82, 72, 89, 40
+; DB ‘SAM WONG', 78, 76, 92, 60
+; Each name occupies 12 bytes. Write a program to print the name of each student and his or her average (truncated to an integer) for the four exams.
+
 .MODEL SMALL
 .STACK 100H
 .DATA           
