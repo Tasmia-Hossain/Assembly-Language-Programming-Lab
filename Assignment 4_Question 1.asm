@@ -1,3 +1,5 @@
+;Write a program to input an uppercase letter and display its corresponding lowercase letter.
+
 .MODEL SMALL
 .STACK 100H
 .DATA 
