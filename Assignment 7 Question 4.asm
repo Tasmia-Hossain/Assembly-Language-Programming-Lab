@@ -1,3 +1,6 @@
+;Write a program that prompts the user to enter a string of decimal digits, ending with a carriage return, and print their sum in hex on the next line. 
+; If the user enters an illegal character, he or she should be prompted to begin again.
+
 .MODEL SMALL
 .STACK 100H
 .DATA
