@@ -1,3 +1,7 @@
+; Write a program that prompts the user to enter two unsigned hex numbers, 0 to FFFFh, and prints their sum in hex on the next line. 
+; If the user enters an illegal character, he or she should be prompted to begin again. 
+; Your program should be able to handle the possibility of unsigned overflow. Each input ends with a carriage return.
+
 .MODEL SMALL
 .STACK 100H
 .DATA 
