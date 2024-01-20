@@ -1,3 +1,5 @@
+;Write a program that prompts the user to enter a character, and in subsequent lines prints its ASCII code in binary and the number of 1 bit in its ASCII code.
+
 .MODEL SMALL
 .STACK 100H   
 .DATA    
