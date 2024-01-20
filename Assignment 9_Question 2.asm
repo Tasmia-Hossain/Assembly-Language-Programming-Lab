@@ -1,3 +1,6 @@
+; Write a program that (a) lets the user input a string, (b) prints it forward and backward without punctuation and blanks on successive lines, 
+; and (c) decides whether it is a palindrome and prints the conclusion.
+
 .MODEL SMALL
 .STACK 100H     
 .DATA
