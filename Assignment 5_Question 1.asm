@@ -1,3 +1,10 @@
+; For each of the following instructions, give the new destination contents and the new settings of CF, SF, ZF, PF, and OF. Suppose that the flags are initially 
+; 0 in each part of this question.
+; a. ADD AX, BX where AX contains FFFEH and BX contains 0001H
+; b. INC AL where Al contains FFH
+; c. NEG AL where AL contains F7H
+; d. XCHG AX, BX where AX contains ABC1H and BX contains A217H
+
 .MODEL SMALL
 .STACK 100H
 .CODE
