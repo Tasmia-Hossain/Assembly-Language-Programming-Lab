@@ -1,3 +1,5 @@
+;Write a program to read two decimal digits whose sum is less than 10 and display them and their sum in the next line with an appropriate message.
+
 .MODEL SMALL
 .STACK 100
 .DATA
