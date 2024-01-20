@@ -1,3 +1,5 @@
+;Write a program to read two lowercase letters and display them on the next line in alphabetical order.
+
 .MODEL SMALL
 .STACK 100H
 .DATA
