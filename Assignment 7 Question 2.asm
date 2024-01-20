@@ -1,3 +1,6 @@
+; Write a program that prompts the user to type a hex number of four hex digits or less, and outputs it in binary on the next line. If the user enters an illegal character, he or she should be
+; prompted to begin again. Accept only uppercase letters. Your program may ignore any input beyond four characters.
+
 .MODEL SMALL
 .STACK 100H
 .DATA 
