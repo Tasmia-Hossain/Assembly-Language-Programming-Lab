@@ -1,3 +1,5 @@
+;Write a program that lets the user enter time in seconds, up to 65535, and outputs the time as hours, minutes, and seconds.
+
 .MODEL SMALL
 .STACK 100H
 .DATA
